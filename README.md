@@ -9,4 +9,4 @@ In this world of big data, Trell wants you to use the data to predict the age gr
 Train dataset [[link](https://dphi.s3.ap-south-1.amazonaws.com/dataset/train_age_dataset.csv)] <br>
 Test dataset [[link](https://dphi.s3.ap-south-1.amazonaws.com/dataset/test_age_dataset.csv)]
 
->The **model folder** consists of the *final model* I chose for submission, along with the corresponding *prediction csv file*. It gave a f1 score of 80.988 on public leaderboard and 81.14 on private leaderboard
+>The **model folder** consists of the *final model* ([Team_Ragrun_cascade_cup.ipynb]()) I chose for submission, along with the corresponding *prediction csv file* ([prediction.csv]()). It gave a f1 score of 80.988 on public leaderboard and 81.14 on private leaderboard
